@@ -60,8 +60,8 @@
 
 ## Void Linux
 
-- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-base.iso)
-- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-xfce.iso)
+- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20250202-base.iso)
+- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20250202-xfce.iso)
 
 ## Alpine Linux
 
